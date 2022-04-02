@@ -1,0 +1,8 @@
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\bin\Debug\2D_ArrayProgram.exe.config
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\bin\Debug\2D_ArrayProgram.exe
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\bin\Debug\2D_ArrayProgram.pdb
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\obj\Debug\2D_ArrayProgram.csproj.AssemblyReference.cache
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\obj\Debug\2D_ArrayProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\obj\Debug\2D_ArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\obj\Debug\2D_ArrayProgram.exe
+C:\Users\sahil\source\repos\2D_ArrayProgram\2D_ArrayProgram\obj\Debug\2D_ArrayProgram.pdb
